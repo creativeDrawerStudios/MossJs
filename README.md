@@ -15,6 +15,49 @@ strokeSize(5);
 strokeColor("#000000");
 selectColor("#ff00cE");
 rect(centerX-50,centerY-50,100,100);
+```
+## How to make a new project
 
+### Start with a new html document
 
+``` html
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>myFirstMossProject</title>
+ </head>
+ <body>
+  <canvas id="myCanvas"></canvas>
+  <script src="https://classicmc-studios.github.io/js/moss.js"></script>
+  <script src="main.js"></script>
+ </body>
+</html>
+```
+
+#### Create a new js file called main.js
+
+``` js
+createCanvas(720,480);
+bg("#00cc00",0.1);
+strokeColor("#000000");
+selectColor("#ffffff");
+rect(720/2-50,480/2-50,100,100);
+```
+
+## Additions 
+
+> <b>Studio</b>
+
+``` js
+const stdio = new Studio();
+stdio.input("Hello World!");
+```
+
+> <b>Draw</b>
+
+```js 
+new Draw();
+var draw = function(){
+ //Runs once every millisecond
+}
 ```

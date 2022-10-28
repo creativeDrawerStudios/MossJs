@@ -1,6 +1,6 @@
 # MossJsBeta
 
-> The successor to eSharp <br/>
+> The <em>successor</em> to <a href="https://github.com/creativeDrawerStudios/eSharpBeta"><b>eSharp</b></a> <br/>
 > Includes drawing, studio commands, and optional functions for repetetion.
 
 ``` js

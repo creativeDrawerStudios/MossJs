@@ -27,7 +27,9 @@ rect(centerX-50,centerY-50,100,100);
   <title>myFirstMossProject</title>
  </head>
  <body>
-  <canvas id="myCanvas"></canvas>
+  <p align="center">
+   <canvas id="myCanvas"></canvas>
+  </p>
   <script src="https://classicmc-studios.github.io/js/moss.js"></script>
   <script src="main.js"></script>
  </body>

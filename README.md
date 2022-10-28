@@ -1,4 +1,4 @@
-<img src="sold.svg"/>
+<img src="sold.png" width="350" height="150"/>
 
 > The <em>successor</em> to <a href="https://github.com/creativeDrawerStudios/eSharpBeta"><b>eSharp</b></a> <br/>
 > Includes drawing, studio commands, and optional functions for repetetion.

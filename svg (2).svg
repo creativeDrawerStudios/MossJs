@@ -1,0 +1,11 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <path fill="#000000" stroke="#000" opacity="undefined" d="m162,233l101,0l0,94l-101,0l37,-46l-37,-48z" id="svg_6" transform="rotate(90 212.5 280)"/>
+  <ellipse fill="#007f3f" stroke="#000" cx="319.5" cy="282.5" id="svg_7" rx="48.5" ry="50.5" stroke-width="0"/>
+  <text fill="#000000" stroke-width="0" x="456.53373" y="279.5488" id="svg_8" font-size="24" font-family="'Sans'" text-anchor="start" xml:space="preserve" stroke="#000" transform="matrix(4.45318 0 0 5.46647 -1661.56 -1197.49)">SS</text>
+  <ellipse fill="#007f3f" stroke="#000" stroke-width="0" cx="528.5" cy="318" id="svg_14" rx="12.5" ry="12"/>
+  <text fill="#000000" stroke-width="0" x="699.35792" y="299.30447" id="svg_15" font-size="24" font-family="'Sans'" text-anchor="start" xml:space="preserve" stroke="#000" transform="matrix(6.53445 0 0 5.65291 -4028.08 -1332.51)">js</text>
+ </g>
+
+</svg>

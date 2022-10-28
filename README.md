@@ -1,6 +1,6 @@
 # MossJsBeta
 
-> A new game Js game engine <br/>
+> The successor to eSharp <br/>
 > Includes drawing, studio commands, and optional functions for repetetion.
 
 ``` js

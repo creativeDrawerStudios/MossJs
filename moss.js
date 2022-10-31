@@ -24,7 +24,7 @@ class Studio{
     confirm(conf){
         return confirm(conf.toString());
     }
-    rand(max){
+    random(max){
         return Math.floor(Math.random() * max);
     }
 }
@@ -33,6 +33,11 @@ function createCanvas(width,height){
     canvas.height = height;
     this.stroke = true;
 }
+function image(img,x,y,w,h,opacity=1){
+        c.globalAlpha = opacity;
+        c.drawImage(img,x,y,w,h);
+        c.globalAlpha = 1;
+    }
 function bg(color,opacity = 1){
     c.globalAlpha = opacity;
     c.fillStyle = color;
